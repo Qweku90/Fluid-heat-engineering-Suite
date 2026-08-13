@@ -13,7 +13,7 @@ than duplicating physics in the UI layer, every input has a plain-language
 description, invalid inputs surface as warnings instead of crashes, and
 every chart or table has a CSV export/download option.
 
-**Live app:** https://REPLACE-WITH-YOUR-STREAMLIT-URL.streamlit.app
+**Live app:** https://engineering-suite.streamlit.app/
 
 ## Modules
 
